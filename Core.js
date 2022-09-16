@@ -4814,7 +4814,7 @@ Here's the list of my Commands.
  
  *━━━〈  🎆 Core 🎆  〉━━━*
 
-speak, hibana, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
+speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
  *━━━〈  🎀 Owner 🎀  〉━━━*
 
