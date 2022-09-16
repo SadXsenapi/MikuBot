@@ -4804,7 +4804,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
+I am *Princess Hibana*, a bot developed by *Dragonlord 🐉🀄*.
 
 🔰 My prefix is:  ${prefix}
 
@@ -4814,7 +4814,7 @@ Here's the list of my Commands.
  
  *━━━〈  🎆 Core 🎆  〉━━━*
 
-speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
+speak, hibana, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
  *━━━〈  🎀 Owner 🎀  〉━━━*
 
